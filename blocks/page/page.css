@@ -3,9 +3,3 @@
   background: #2a2c2f;
   margin: 0 auto;
 }
-
-@media (max-width: 1100px) {
-  .page {
-    width: 1024px;
-  }
-}

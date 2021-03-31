@@ -3,7 +3,7 @@
   margin: 0 auto 0 148px;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1170px) {
   .intro {
     margin-left: 48px;
   }
