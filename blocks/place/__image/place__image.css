@@ -2,3 +2,21 @@
   width: 460px;
   grid-area: img;
 }
+
+@media (max-width: 1170px) {
+  .place__image {
+    width: 440px;
+  }
+}
+
+@media (max-width: 800px) {
+  .place__image {
+    width: 340px;
+  }
+}
+
+@media (max-width: 400px) {
+  .place__image {
+    width: 100%;
+  }
+}

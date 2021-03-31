@@ -1,6 +1,20 @@
 .footer__author {
-  margin: 92px 0 24px;
+  margin: 94px 0 24px;
   color: white;
   font-size: 14px;
   line-height: 16px;
+}
+
+@media (max-width: 800px) {
+  .footer__author {
+    margin-top: 90px;
+  }
+}
+
+@media (max-width: 700px) {
+  .footer__author {
+    margin-top: 0;
+    line-height: 14px;
+    width: 100%;
+  }
 }
