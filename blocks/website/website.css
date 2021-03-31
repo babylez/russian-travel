@@ -1,10 +1,10 @@
-.place__website {
+.website {
   grid-area: website;
   align-self: end;
 }
 
 @media (max-width: 400px) {
-  .place__website {
+  .website {
     margin-left: 16px;
     margin-right: 16px;
   }
