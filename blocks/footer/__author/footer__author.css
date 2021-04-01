@@ -3,6 +3,7 @@
   color: white;
   font-size: 14px;
   line-height: 16px;
+  font-family: inter, Arial, sans-serif;
 }
 
 @media (max-width: 800px) {

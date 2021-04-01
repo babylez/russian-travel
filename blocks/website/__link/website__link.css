@@ -2,6 +2,7 @@
   color: white;
   font-size: 18px;
   line-height: 22px;
+  font-family: inter, Arial, sans-serif;
 }
 
 .website__link:hover {

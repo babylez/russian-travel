@@ -6,7 +6,7 @@
   color: white;
   white-space: pre-line;
   margin: 0;
-  font-family: "inter";
+  font-family: inter, Arial, sans-serif;
 }
 
 @media (max-width: 800px) {
