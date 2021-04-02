@@ -1,6 +1,7 @@
 .place {
   display: flex;
   display: grid;
+
   grid-template-areas:
     "title website"
     "img text";
@@ -22,7 +23,7 @@
   }
 }
 
-@media (max-width: 650px) {
+@media (max-width: 740px) {
   .place {
     grid-template-areas:
       "title"
