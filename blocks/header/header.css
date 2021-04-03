@@ -1,5 +1,4 @@
 .header {
-  max-width: 100%;
   display: flex;
   justify-content: space-between;
   margin-top: 28px;
@@ -17,5 +16,12 @@
     margin-right: 16px;
     margin-left: 16px;
     margin-top: 16px;
+    min-width: 288px;
+  }
+}
+
+@media (min-width: 321px) {
+  .header {
+    max-width: 100%;
   }
 }

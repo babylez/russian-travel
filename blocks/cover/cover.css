@@ -35,9 +35,9 @@
 @media (max-width: 1170px) {
   .cover {
     min-height: 640px;
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    background-size: 100%;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    background-size: 100% 100%;
     margin-right: 0;
     margin-left: 0;
   }
