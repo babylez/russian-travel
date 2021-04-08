@@ -2,7 +2,7 @@
   background-image: url(../../sprint-3-images/cover-trains.jpg);
   background-size: contain;
   background-repeat: no-repeat;
-  max-width: 100%;
+  width: 100%;
   min-height: 740px;
   display: flex;
   justify-content: center;
@@ -48,16 +48,20 @@
     min-height: 480px;
   }
 }
-
-@media (max-width: 550px) {
+@media (max-width: 600px) {
   .cover {
-    justify-content: start;
+    min-height: 320px;
   }
 }
 
+/*@media (max-width: 551px) {
+  .cover {
+    min-height: 480px;
+  }
+}
+*/
 @media (max-width: 400px) {
   .cover {
     min-height: 200px;
-    justify-content: center;
   }
 }
