@@ -1,4 +1,8 @@
-@media (max-width: 1170) {
+.cover-block {
+  margin-right: 48px;
+  margin-left: 48px;
+}
+@media (max-width: 1170px) {
   .cover-block {
     margin-right: 0;
     margin-left: 0;
